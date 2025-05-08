@@ -17,7 +17,7 @@ This project explores restaurant data from Zomato across 15 countries, with a fo
 ## 📊 Key Insights
 
 ### 🏙️ City & Country Distribution
-- 🇮🇳 **India** dominates with **8642 eateries** (90.6% of total)
+-  **India** dominates with **8642 eateries** (90.6% of total)
 - **Top Indian Cities by Count:**  
   - New Delhi (5,469), Gurgaon (1,117), Noida (1,075)
 
